@@ -63,7 +63,7 @@ int main()
         printf("*****         0. Thoat                         *****\n");
         printf("****************************************************\n");
         printf("*****         Nhap lua chon cua ban            *****\n");
-        scanf("%d",&key);
+        scanf("%d", &key);
         switch(key)
         {
             case 1:
@@ -109,7 +109,6 @@ int main()
                 {
                     printf("\nBan da chon xep loai Sinhvien");
                     xepLoaiN(a, n);                          
-                	
 		}
                 else
                 {
