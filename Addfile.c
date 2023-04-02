@@ -104,7 +104,7 @@ int main()
                 getch();
                 break;
 
-			case 4:
+	   case 4:
                 if(daNhap)
                 {
                     printf("\nBan da chon xep loai Sinhvien");
@@ -119,7 +119,7 @@ int main()
                 getch();
                 break;
                 
-			case 5:
+	   case 5:
                 if(daNhap)
                 {
                     printf("\nBan da Xuat danh sach Sinhvien");
@@ -133,6 +133,7 @@ int main()
 		printf("\nBam phim bat ky de tiep tuc! ");
                 getch();
                 break;
+			
 	     case 0:
 		printf("\nbam da chon thoat chuong trinh !");
 		getch();
